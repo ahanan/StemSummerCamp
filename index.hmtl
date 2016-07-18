@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Ahana Narang</title>
+</head>
+<body>
+<h1>Ahana Narang Photography</h1>     
+<h2>About Me</h2>
+<p>Hello! My name is Ahana Narang and I am an incoming senior at Lynbrook High School.<br> 
+    I have only been involved in photography for about a year. In that year, I have joined a photography club and am currently a photographer on the school yearbook team. I hope to improve my skills and continue to take photos for years to come. </p>
+
+<h3>Equipment</h3>
+    <ul>
+    <li>Nikon D7200 </li>
+    <li>Nikkor 50mm 1/8G Lens</li>
+    <li>Nikkor 18-140mm Lens</li>    
+    </ul>
+<h4>Sample Pictures</h4>
+    <img scr="img\butterfly.jpg">
+</body>
+</html>
