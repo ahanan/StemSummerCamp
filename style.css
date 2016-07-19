@@ -1,0 +1,14 @@
+body {
+            background-color: maroon;
+            text-align: center
+        }
+        #equipment{
+            color: thistle;
+            text-align: left
+        }
+        .content{
+            color: thistle
+        }
+        h3{
+            text-align: left    
+        }
