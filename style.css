@@ -1,14 +1,20 @@
 body {
-            background-color: maroon;
-            text-align: left;
-        }
-        #equipment{
-            color: thistle;
-            text-align: left;
-        }
-        .content{
-            color: thistle;
-        }
-        h3{
-            text-align: left;    
-        }
+        background-color: maroon;
+        text-align: left;
+    }
+#equipment{
+        color: thistle;
+        text-align: left;
+    }
+.content{
+        color: thistle;
+    }
+h3{
+        text-align: left;    
+    }
+h1{
+    text-align: center
+    }
+h2{
+    text-align: center
+    }
