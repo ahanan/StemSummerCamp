@@ -1,14 +1,14 @@
 body {
             background-color: maroon;
-            text-align: center
+            text-align: left;
         }
         #equipment{
             color: thistle;
-            text-align: left
+            text-align: left;
         }
         .content{
-            color: thistle
+            color: thistle;
         }
         h3{
-            text-align: left    
+            text-align: left;    
         }
