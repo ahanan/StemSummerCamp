@@ -1,13 +1,14 @@
 body {
-        background-color: maroon;
+        background-image: url("white.jpg");
         text-align: left;
+        font-family: verdana;
     }
 #equipment{
-        color: thistle;
+        color: mediumpurple;
         text-align: left;
     }
 .content{
-        color: thistle;
+        color: mediumpurple;
     }
 h3{
         text-align: left;    
@@ -16,5 +17,8 @@ h1{
     text-align: center
     }
 h2{
-    text-align: center
+    text-align: left
     }
+h4{
+    text-align: center
+}
